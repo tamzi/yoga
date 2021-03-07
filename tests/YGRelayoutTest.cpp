@@ -1,4 +1,4 @@
-/**
+/*
  * Copyright (c) Facebook, Inc. and its affiliates.
  *
  * This source code is licensed under the MIT license found in the
@@ -10,7 +10,8 @@
 
 TEST(YogaTest, dont_cache_computed_flex_basis_between_layouts) {
   const YGConfigRef config = YGConfigNew();
-  YGConfigSetExperimentalFeatureEnabled(config, YGExperimentalFeatureWebFlexBasis, true);
+  YGConfigSetExperimentalFeatureEnabled(
+      config, YGExperimentalFeatureWebFlexBasis, true);
 
   const YGNodeRef root = YGNodeNewWithConfig(config);
   YGNodeStyleSetHeightPercent(root, 100);

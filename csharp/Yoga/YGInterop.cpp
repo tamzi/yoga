@@ -1,4 +1,4 @@
-/**
+/*
  * Copyright (c) Facebook, Inc. and its affiliates.
  *
  * This source code is licensed under the MIT license found in the
@@ -9,11 +9,12 @@
 
 static YGInteropLogger gManagedLogger;
 
-static int unmanagedLogger(const YGConfigRef config,
-                           const YGNodeRef node,
-                           YGLogLevel level,
-                           const char *format,
-                           va_list args) {
+static int unmanagedLogger(
+    const YGConfigRef config,
+    const YGNodeRef node,
+    YGLogLevel level,
+    const char* format,
+    va_list args) {
   int result = 0;
   if (gManagedLogger) {
     char message[8192];
