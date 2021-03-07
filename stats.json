@@ -1,20 +1,20 @@
 {
   "assetsByChunkName": {
     "path---docs-align-items": [
-      "path---docs-align-items-feb180566a942a393796.js",
-      "path---docs-align-items-feb180566a942a393796.js.map"
+      "path---docs-align-items-76f15f5cbb1b7350f70c.js",
+      "path---docs-align-items-76f15f5cbb1b7350f70c.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-21496149dd2a3ad35bef.js",
-      "component---src-pages-index-js-21496149dd2a3ad35bef.js.map"
+      "component---src-pages-index-js-cecd43379bbc0d91d8c3.js",
+      "component---src-pages-index-js-cecd43379bbc0d91d8c3.js.map"
     ],
     "component---src-templates-without-playground-js": [
       "component---src-templates-without-playground-js-a34109f9b4a5f96400c3.js",
       "component---src-templates-without-playground-js-a34109f9b4a5f96400c3.js.map"
     ],
     "path---getting-started-standalone": [
-      "path---getting-started-standalone-ed268eb2ff20cb74f49c.js",
-      "path---getting-started-standalone-ed268eb2ff20cb74f49c.js.map"
+      "path---getting-started-standalone-f155e750228fa2a9aff5.js",
+      "path---getting-started-standalone-f155e750228fa2a9aff5.js.map"
     ],
     "path---docs-margins-paddings-borders": [
       "path---docs-margins-paddings-borders-914c8bc69fcec6df6d9d.js",
@@ -25,16 +25,16 @@
       "path---docs-flex-0105a9b50b09c4989c71.js.map"
     ],
     "path---docs-layout-direction": [
-      "path---docs-layout-direction-1189390a6d8ff9363286.js",
-      "path---docs-layout-direction-1189390a6d8ff9363286.js.map"
+      "path---docs-layout-direction-671ae33e7eb485a25a40.js",
+      "path---docs-layout-direction-671ae33e7eb485a25a40.js.map"
     ],
     "path---docs-aspect-ratio": [
       "path---docs-aspect-ratio-0dcd0bb2fc5ef9587959.js",
       "path---docs-aspect-ratio-0dcd0bb2fc5ef9587959.js.map"
     ],
     "path---docs": [
-      "path---docs-6acc54f2eac7d6d7358a.js",
-      "path---docs-6acc54f2eac7d6d7358a.js.map"
+      "path---docs-ae009b30afa116ccedd4.js",
+      "path---docs-ae009b30afa116ccedd4.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -67,12 +67,12 @@
       "path---docs-flex-wrap-c20c60752787dce5f765.js.map"
     ],
     "path---contributing-writing-documentation": [
-      "path---contributing-writing-documentation-24c7cf0093abd4263194.js",
-      "path---contributing-writing-documentation-24c7cf0093abd4263194.js.map"
+      "path---contributing-writing-documentation-9ad767cd820e6c443491.js",
+      "path---contributing-writing-documentation-9ad767cd820e6c443491.js.map"
     ],
     "component---src-templates-with-playground-js": [
-      "component---src-templates-with-playground-js-17defb9601f588f41d49.js",
-      "component---src-templates-with-playground-js-17defb9601f588f41d49.js.map"
+      "component---src-templates-with-playground-js-2a7c4da02e64f29c6cd9.js",
+      "component---src-templates-with-playground-js-2a7c4da02e64f29c6cd9.js.map"
     ],
     "path---docs-align-content": [
       "path---docs-align-content-a7b70c244e56af18c99e.js",
@@ -95,22 +95,22 @@
       "path---contributing-opening-a-pull-request-2bbf6633324890cc62bd.js.map"
     ],
     "app": [
-      "app-9c2afae21345d6a91e7b.js",
+      "app-83dedd1c9c26fc0393ed.js",
       "build-js-styles.css",
-      "app-9c2afae21345d6a91e7b.js.map",
+      "app-83dedd1c9c26fc0393ed.js.map",
       "build-js-styles.css.map"
     ],
     "path---docs-justify-content": [
-      "path---docs-justify-content-fe3ae04b3fa71d98646a.js",
-      "path---docs-justify-content-fe3ae04b3fa71d98646a.js.map"
+      "path---docs-justify-content-e93beae55e767784b799.js",
+      "path---docs-justify-content-e93beae55e767784b799.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-playground-index-js": [
-      "component---src-pages-playground-index-js-1673a1bff707b2debda6.js",
-      "component---src-pages-playground-index-js-1673a1bff707b2debda6.js.map"
+      "component---src-pages-playground-index-js-43bbe961056adcba741e.js",
+      "component---src-pages-playground-index-js-43bbe961056adcba741e.js.map"
     ],
     "path---contributing-testing": [
       "path---contributing-testing-1fe459815871d2c36e80.js",
